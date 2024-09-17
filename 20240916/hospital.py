@@ -37,7 +37,7 @@ def menu():
 
 def menus():
     choice = menu()
-    while choice != :
+    while choice != 3:
         choice = menu()
 
 menus()
