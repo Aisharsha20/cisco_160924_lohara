@@ -1,0 +1,21 @@
+Day 5
+Define product class
+conduct crud operations with SQLite
+  special note:
+     1. define menu : send mail
+     find product by id
+    with product into json file
+    send product json file to business owner
+  
+     2. Convert all products as dictionary 
+    where id is the key 
+    and find total stock value using dictionary 
+
+      3. Calculate total stock 
+         assumption minimum 50 prods
+    appoint a thread to calculate total of 10 prods
+    do it for all each 10 prods
+    sum together by manger thread
+
+    
+       4. Conduct web scrap for your domain domain data
